@@ -1,27 +1,52 @@
 [
     {
         "role": "owner",
-        "name": "List Owner",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Jayxofc",
+        "link": "https://www.youtube.com/@Jayxofc"
     },
     {
         "role": "admin",
-        "name": "List Admin",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "wushady",
+        "link": "https://www.youtube.com/channel/UCtvkqj6Vo6-zzc2VIGa-nVg"
+    },
+    {
+        "role": "admin",
+        "name": "Mental",
+        "link": "https://www.youtube.com/channel/UCtvkqj6Vo6-zzc2VIGa-nVg"
+    },
+     {
+        "role": "admin",
+        "name": "Terralyx",
+        "link": "https://www.youtube.com/channel/UCYm5mqSQgV3HRHzrj3oisWQ"
     },
     {
         "role": "helper",
-        "name": "List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Deat",
+        "link": "https://www.youtube.com/channel/UCPmHSC8m6amhYftyugvDCnA"
     },
     {
-        "role": "trial",
-        "name": "Trial List Helper",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "role": "helper",
+        "name": "Disky",
+        "link": "https://www.youtube.com/channel/UCPmHSC8m6amhYftyugvDCnA"
+    },
+    {
+        "role": "helper",
+        "name": "petroff",
+        "link": "https://www.youtube.com/@zZoonk"
+    },
+    {
+        "role": "helper",
+        "name": "petroff",
+        "link": "https://www.youtube.com/@zZoonk"
+    },
+    {
+        "role": "helper",
+        "name": "sary",
+        "link": "https://www.youtube.com/channel/UCpw86dpXA0fg3_g5Uank2ag"
     },
     {
         "role": "dev",
-        "name": "List Coder",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Jayxofc",
+        "link": "https://www.youtube.com/@Jayxofc"
     }
 ]
